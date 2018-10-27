@@ -1,5 +1,5 @@
 # Food-Order-System
-<h1>This is my House Rent repository</h1>
+<h1>This is my Food Order System Project repository</h1>
 <p> I have attached my project as a zip file format <b>(food.zip)</b>. Please download and extract this project and use it in your local computer. Thanks</p>
 <blockquote>
   I have attached some sample code file also, so that you can analyze my whole project to see sample code.
